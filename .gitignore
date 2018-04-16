@@ -53,4 +53,7 @@ VendorLib/clang/lib/c++
 
 *.swp
 
+#WebStorm
+.idea/*
+
 
